@@ -1,2 +1,2 @@
 # Exploratory-Analysis-of-Toronto-Restaurants
-Data Analysis on Toronto Restaurants 
+Data Analysis and visualization on Toronto Restaurants 
